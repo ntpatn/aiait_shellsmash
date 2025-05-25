@@ -1,4 +1,4 @@
 train: images/train
-val: images/val
+val: images/val    # หรือ images/val ถ้าคือ validation จริงๆ
 nc: 1
-names: ['object']
+names: ['rope']
